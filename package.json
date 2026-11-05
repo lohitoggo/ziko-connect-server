@@ -1,0 +1,12 @@
+{
+  "name": "ziko-connect-signaling-server",
+  "version": "1.0.0",
+  "description": "Zero-Cost Open-Source WebRTC Signaling & WorldWave Relay Server for Ziko Connect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
